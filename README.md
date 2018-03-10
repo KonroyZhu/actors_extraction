@@ -8,7 +8,7 @@
     
     主函数在/utils/getActor1/recongnize/GetActor.java下
     
-    抽取算法主要分为5个步骤：
+    抽取算法主要分为6个步骤：
        
         1.对评论句子进行分词，借助hanlp抽取出标签为nr（人名），nrf（外国人名）以及nz（专有名词）的词语作为演员名字的候选集合
         
